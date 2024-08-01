@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/drewmanley16.github.io/static/css/main.300a7807.css",
+    "main.js": "/drewmanley16.github.io/static/js/main.cfff177f.js",
+    "static/media/Headshot.jpg": "/drewmanley16.github.io/static/media/Headshot.dc35bd9586c239846bcb.jpg",
+    "static/media/SectionTwoImage.png": "/drewmanley16.github.io/static/media/SectionTwoImage.b3ecca08713fb6dcbf96.png",
+    "static/media/HomeImageOne.png": "/drewmanley16.github.io/static/media/HomeImageOne.c2f53708fd8716654f6b.png",
+    "static/media/dog.png": "/drewmanley16.github.io/static/media/dog.078f7ccfe2a26f25efde.png",
+    "static/media/family.png": "/drewmanley16.github.io/static/media/family.162509468003f0bdafe7.png",
+    "static/media/SectionOneImage.jpg": "/drewmanley16.github.io/static/media/SectionOneImage.48e7ee9ef0898f9d6e73.jpg",
+    "static/media/soccer.png": "/drewmanley16.github.io/static/media/soccer.30d805173b865670d091.png",
+    "static/media/backgroundImage.jpg": "/drewmanley16.github.io/static/media/backgroundImage.3e5e8ef5e1566ed1e3f8.jpg",
+    "static/media/UOBlockchain.jpg": "/drewmanley16.github.io/static/media/UOBlockchain.0c85395c7c6814c383ee.jpg",
+    "static/media/ResumeBackground.jpg": "/drewmanley16.github.io/static/media/ResumeBackground.043b7cee6adb117ec201.jpg",
+    "static/media/UOOCG.jpg": "/drewmanley16.github.io/static/media/UOOCG.20cf4b4caa297ad4eb10.jpg",
+    "static/media/Drew Manley's Resume.pdf": "/drewmanley16.github.io/static/media/Drew Manley's Resume.1884b023e7921e4b1941.pdf",
+    "static/media/consultingBackground.webp": "/drewmanley16.github.io/static/media/consultingBackground.0990024e81235fd30a26.webp",
+    "static/media/OBGxLit.webp": "/drewmanley16.github.io/static/media/OBGxLit.8b06e676adf539dc9ae7.webp",
+    "static/media/coffeeBackground.avif": "/drewmanley16.github.io/static/media/coffeeBackground.465c1588d6b8fdd5c81e.avif",
+    "index.html": "/drewmanley16.github.io/index.html",
+    "main.300a7807.css.map": "/drewmanley16.github.io/static/css/main.300a7807.css.map",
+    "main.cfff177f.js.map": "/drewmanley16.github.io/static/js/main.cfff177f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.300a7807.css",
+    "static/js/main.cfff177f.js"
+  ]
+}
